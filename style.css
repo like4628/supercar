@@ -1,4 +1,4 @@
-﻿@charset "UTF-8";
+@charset "UTF-8";
 * {
   font-family: "微軟正黑體";
 }
@@ -80,7 +80,7 @@ section.picture .col-md-6:hover p {
 }
 section.picture .col-md-6:hover:before {
   filter: brightness(0.4);
-  background-size: 155% auto;
+  background-size: 130% auto;
 }
 section.picture .col-md-6:before {
   content: "";
@@ -103,12 +103,12 @@ section.picture .col-md-6 p {
   opacity: 0.5;
 }
 section.picture .col-pic1:before {
-  background-image: url("https://www.maserati.com/mediaObject/sites/international/Models/granturismo/granturismo18/GranTurismo18-front-in-motion/resolutions/res-l1800x10000/GranTurismo18-front-in-motion.jpg");
-  background-size: 145% auto;
+  background-image: url("https://cdn.carnews.com/article/923edc34-4b10-11e8-8ee2-42010af00004/carnews/180429021838036417.jpg");
+  background-size: 142% auto;
 }
 section.picture .col-pic2:before {
-  background-image: url("https://freeaddon.com/wp-content/uploads/2017/12/pininfarina-4.jpg");
-  background-size: 105% auto;
+  background-image: url("https://images4.alphacoders.com/879/thumb-1920-87994.jpg");
+  background-size: 110% auto;
 }
 
 section.ask {
