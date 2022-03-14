@@ -39,7 +39,7 @@ section .col-PorSche img, section .col-Lamborghini img, section .col-Ferrari img
   margin-bottom: 30px;
 }
 section .col-horse img {
-  width: 20%;
+  width: 70%;
   margin-bottom: 20px;
 }
 section .col-define {
@@ -103,8 +103,8 @@ section.picture .col-md-6 p {
   opacity: 0.5;
 }
 section.picture .col-pic1:before {
-  background-image: url("https://cdn.carnews.com/article/923edc34-4b10-11e8-8ee2-42010af00004/carnews/180429021838036417.jpg");
-  background-size: 142% auto;
+  background-image: url("./maserati.jpg");
+  background-size: 100% auto;
 }
 section.picture .col-pic2:before {
   background-image: url("https://images4.alphacoders.com/879/thumb-1920-87994.jpg");
