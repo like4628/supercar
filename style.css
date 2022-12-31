@@ -9,9 +9,9 @@ h1, h2, h3, h4, h5, h6 {
 
 header.jumbotron {
   text-align: left;
-  background-image: url("http://all4desktop.com/data_images/original/4154293-tron-aston-martin.jpg");
+  background-image: url("./luxurycarbanner.jpg");
   background-size: cover;
-  background-position: center;
+  background-position: center ;
   color: white;
   padding: 170px;
 }
